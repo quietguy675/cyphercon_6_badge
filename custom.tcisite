@@ -1,0 +1,21 @@
+Basil
+$divider(0)
+Welcome $pget(2)!
+$divider(0)
+
+Darth Plagueis was a Dark
+Lord of the Sith so powerful
+and so wise, he could use
+the Force to influence the
+midi-chlorians to create
+life. He had such a
+knowledge of the dark side,
+he could even keep the ones
+he cared about from dying.
+
+$divider(0)
+$button(700)Intracon Home Page
+$button(701)Con Wide Web
+$button(703)Intracon Website Creation
+
+intracon webring: $button($random(0|1|2|3|4|5|6)$random(0|1|2|3|4|5|6|7|8|9)$random(0|1|2|3|4|5|6|7|8|9))next site
